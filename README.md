@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/9ab2c09a-fc0a-4387-b12c-8f191eda3a76
 
 ## 📜 İçindekiler (Table of Contents)
 
-- [Oyun Hakkında (About the Game)](-oyun-hakkında-about-the-game)
+- [📖 Oyun Hakkında (About the Game)](#-oyun-hakkında-about-the-game)
 - [✨ Temel Özellikler (Key Features)](#-temel-özellikler-key-features)
 - [🕹️ Oynanış Mekanikleri (Gameplay Mechanics)](#️-oynanış-mekanikleri-gameplay-mechanics)
 - [📱 Artırılmış Gerçeklik (AR) Modu (Augmented Reality (AR) Mode)](#-artırılmış-gerçeklik-augmented-reality-ar-mode)
