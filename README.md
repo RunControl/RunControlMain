@@ -13,14 +13,14 @@ https://github.com/user-attachments/assets/9ab2c09a-fc0a-4387-b12c-8f191eda3a76
 
 ## 📜 İçindekiler (Table of Contents)
 
-- [Oyun Hakkında (About the Game)](#-oyun-hakkında)
-- [✨ Temel Özellikler (Key Features)](#-temel-özellikler)
-- [🕹️ Oynanış Mekanikleri (Gameplay Mechanics)](#️-oynanış-mekanikleri)
-- [📱 Artırılmış Gerçeklik (AR) Modu (Augmented Reality (AR) Mode)](#-artırılmış-gerçeklik-ar-modu)
-- [🛠️ Teknik Detaylar (Technical Details)](#️-teknik-detaylar)
-- [⚠️ Gerekli Harici Paketler (Önemli) (Dependencies (Important))](#️-gerekli-harici-paketler-önemli)
-- [🚀 Projeyi Çalıştırma (Getting Started)](#-projeyi-çalıştırma)
-- [📂 Proje Yapısı (Project Structure)](#-proje-yapısı)
+- [Oyun Hakkında (About the Game)](-oyun-hakkında-about-the-game)
+- [✨ Temel Özellikler (Key Features)](#-temel-özellikler-key-features)
+- [🕹️ Oynanış Mekanikleri (Gameplay Mechanics)](#️-oynanış-mekanikleri-gameplay-mechanics)
+- [📱 Artırılmış Gerçeklik (AR) Modu (Augmented Reality (AR) Mode)](#-artırılmış-gerçeklik-augmented-reality-ar-mode)
+- [🛠️ Teknik Detaylar (Technical Details)](#️-teknik-detaylar-technical-details)
+- [⚠️ Gerekli Harici Paketler (Önemli) (Dependencies (Important))](#️-gerekli-harici-paketler-önemli-dependencies-ımportant)
+- [🚀 Projeyi Çalıştırma (Getting Started)](#-projeyi-çalıştırma-getting-started)
+- [📂 Proje Yapısı (Project Structure)](#-proje-yapısı-project-structure)
 
 ## 📖 Oyun Hakkında (About the Game)
 
@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/9ab2c09a-fc0a-4387-b12c-8f191eda3a76
 
 > In **Run Control**, the objective is to start with a single character and grow your crowd by passing through the correct gates along the course. Players must make strategic decisions by guiding their characters toward multiplier (x20) or additive (+3) gates. Simultaneously, you must avoid various obstacles that can diminish your crowd. At the end of the level, you use your accumulated crowd to battle an enemy army and fight for victory!
 
-## ✨ Temel Özellikler  (Key Features)
+## ✨ Temel Özellikler (Key Features)
 
 - **🏃‍♂️ Dinamik Runner Mekanikleri:** Hızlı, akıcı ve tatmin edici bir oyun döngüsü.
 - **📈 Stratejik Kalabalık Yönetimi:** Doğru kapıları seçerek ordunuzu büyütün ve gücünüzü katlayın.
