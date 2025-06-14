@@ -1,0 +1,29 @@
+# Unity auto-generated files
+RunControl/Library/
+RunControl/Temp/
+RunControl/Obj/
+RunControl/Build/
+RunControl/Builds/
+RunControl/Logs/
+
+# User-specific files
+RunControl/UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+RunControl/Assets/Mega Hyper Casual Obstacles Pack/
+RunControl/Assets/UI_Package/
+

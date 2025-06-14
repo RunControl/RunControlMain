@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\k\u00FCt\u00FCphane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\k\u00FCt\u00FCphane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|c:\\users\\bbayi\\desktop\\runctrl\\runcontrol\\assets\\script\\marketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\marketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\ozellestirmemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ozellestirmemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\charactercustomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactercustomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\adamlekesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\adamlekesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\level_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\level_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\altkarakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\altkarakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\dusman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dusman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\boskarakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boskarakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\balyoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\balyoz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\testere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\testere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\anamenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\anamenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\arsceneuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arsceneuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\ayarlar_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ayarlar_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\arlauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\arlauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\placeobjectonplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\placeobjectonplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\menuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\pervane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pervane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\assets\\script\\kamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BD330B-E9CF-818F-61AA-C950B2D02515}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\kamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterCustomizer.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\CharacterCustomizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharacterCustomizer.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\CharacterCustomizer.cs",
+              "RelativeToolTip": "Assets\\Script\\CharacterCustomizer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:20:22.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OzellestirmeManager.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\OzellestirmeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\OzellestirmeManager.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\OzellestirmeManager.cs",
+              "RelativeToolTip": "Assets\\Script\\OzellestirmeManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwLYBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:30:57.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ARSceneUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\ARSceneUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ARSceneUIManager.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\ARSceneUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ARSceneUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:23:45.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlaceObjectOnPlane.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\PlaceObjectOnPlane.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlaceObjectOnPlane.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\PlaceObjectOnPlane.cs",
+              "RelativeToolTip": "Assets\\Script\\PlaceObjectOnPlane.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:15:27.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ARLauncher.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\ARLauncher.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ARLauncher.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\ARLauncher.cs",
+              "RelativeToolTip": "Assets\\Script\\ARLauncher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:06:02.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarketManager.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\MarketManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MarketManager.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\MarketManager.cs",
+              "RelativeToolTip": "Assets\\Script\\MarketManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:42:48.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAewGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:49:40.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnaMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\AnaMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AnaMenuManager.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\AnaMenuManager.cs",
+              "RelativeToolTip": "Assets\\Script\\AnaMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:08:55.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "K\u00FCt\u00FCphane.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\K\u00FCt\u00FCphane.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\K\u00FCt\u00FCphane.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\K\u00FCt\u00FCphane.cs",
+              "RelativeToolTip": "Assets\\Script\\K\u00FCt\u00FCphane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:59:40.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Level_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Level_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Level_Manager.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Level_Manager.cs",
+              "RelativeToolTip": "Assets\\Script\\Level_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:07:05.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ayarlar_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Ayarlar_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Ayarlar_Manager.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Ayarlar_Manager.cs",
+              "RelativeToolTip": "Assets\\Script\\Ayarlar_Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:33:14.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuSes.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\MenuSes.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MenuSes.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\MenuSes.cs",
+              "RelativeToolTip": "Assets\\Script\\MenuSes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:21:51.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BosKarakter.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\BosKarakter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BosKarakter.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\BosKarakter.cs",
+              "RelativeToolTip": "Assets\\Script\\BosKarakter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T18:55:00.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Pervane.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Pervane.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Pervane.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Pervane.cs",
+              "RelativeToolTip": "Assets\\Script\\Pervane.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:36:11.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AltKarakter.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\AltKarakter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AltKarakter.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\AltKarakter.cs",
+              "RelativeToolTip": "Assets\\Script\\AltKarakter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:42:03.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "karakter.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\karakter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\karakter.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\karakter.cs",
+              "RelativeToolTip": "Assets\\Script\\karakter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:21:12.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dusman.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Dusman.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Dusman.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Dusman.cs",
+              "RelativeToolTip": "Assets\\Script\\Dusman.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:02:53.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdamLekesi.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\AdamLekesi.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AdamLekesi.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\AdamLekesi.cs",
+              "RelativeToolTip": "Assets\\Script\\AdamLekesi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:18:47.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Balyoz.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Balyoz.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Balyoz.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Balyoz.cs",
+              "RelativeToolTip": "Assets\\Script\\Balyoz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:20:55.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Testere.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Testere.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Testere.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Testere.cs",
+              "RelativeToolTip": "Assets\\Script\\Testere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:02:57.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Kamera.cs",
+              "DocumentMoniker": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Kamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Kamera.cs",
+              "ToolTip": "C:\\Users\\bbayi\\Desktop\\RunCtrl\\RunControl\\Assets\\Script\\Kamera.cs",
+              "RelativeToolTip": "Assets\\Script\\Kamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:52:23.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
